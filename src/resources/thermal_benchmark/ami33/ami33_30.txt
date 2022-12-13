@@ -1,0 +1,35 @@
+Offset: 9
+(14 , 578298.0 )->  bk5c |  bk6 |  bk4 |  bk3 |  bk18 |  bk20 |  bk17a |  bk9c |  bk9b |  bk9a |  bk13 |  bk14c |  bk21 |  bk19 | 
+(19 , 578151.0 )->  bk1 |  bk5b |  bk5a |  bk2 |  bk17b |  bk10a |  bk11 |  bk12 |  bk14b |  bk7 |  bk14a |  bk15a |  bk15b |  bk16 |  bk8a |  bk8b |  bk10b |  bk10c |  bk9d | 
+Number Of TSV: 30
+............................
+Offset: 10
+(16 , 578494.0 )->  bk1 |  bk5b |  bk3 |  bk17b |  bk18 |  bk17a |  bk20 |  bk9c |  bk10b |  bk9a |  bk14c |  bk21 |  bk14a |  bk15a |  bk15b |  bk5a | 
+(17 , 577955.0 )->  bk2 |  bk5c |  bk6 |  bk9b |  bk10a |  bk9d |  bk10c |  bk11 |  bk12 |  bk14b |  bk7 |  bk13 |  bk16 |  bk8a |  bk8b |  bk4 |  bk19 | 
+Number Of TSV: 30
+............................
+Offset: 10
+(13 , 578249.0 )->  bk4 |  bk18 |  bk17a |  bk20 |  bk9c |  bk10a |  bk11 |  bk14b |  bk13 |  bk15a |  bk15b |  bk17b |  bk9b | 
+(20 , 578200.0 )->  bk1 |  bk5b |  bk5a |  bk2 |  bk5c |  bk6 |  bk3 |  bk10b |  bk9d |  bk10c |  bk9a |  bk12 |  bk14c |  bk21 |  bk14a |  bk16 |  bk8a |  bk8b |  bk19 |  bk7 | 
+Number Of TSV: 30
+............................
+Offset: 10
+(17 , 578494.0 )->  bk1 |  bk5c |  bk6 |  bk4 |  bk3 |  bk10a |  bk10b |  bk11 |  bk7 |  bk13 |  bk14c |  bk21 |  bk14a |  bk15a |  bk19 |  bk14b |  bk10c | 
+(16 , 577955.0 )->  bk5b |  bk5a |  bk2 |  bk17b |  bk9c |  bk9b |  bk9a |  bk12 |  bk15b |  bk16 |  bk8a |  bk8b |  bk18 |  bk17a |  bk20 |  bk9d | 
+Number Of TSV: 30
+............................
+Offset: 9
+(17 , 578690.0 )->  bk1 |  bk5b |  bk5a |  bk4 |  bk10b |  bk11 |  bk12 |  bk14b |  bk7 |  bk13 |  bk14c |  bk14a |  bk15b |  bk16 |  bk8a |  bk8b |  bk10c | 
+(16 , 577759.0 )->  bk2 |  bk5c |  bk6 |  bk3 |  bk17b |  bk9b |  bk10a |  bk9d |  bk9a |  bk21 |  bk15a |  bk19 |  bk18 |  bk20 |  bk17a |  bk9c | 
+Number Of TSV: 30
+............................
+Offset: 10
+(16 , 577710.0 )->  bk1 |  bk2 |  bk5c |  bk6 |  bk3 |  bk9c |  bk10a |  bk9a |  bk11 |  bk14b |  bk13 |  bk21 |  bk14a |  bk15a |  bk15b |  bk10c | 
+(17 , 578739.0 )->  bk5b |  bk5a |  bk17b |  bk18 |  bk17a |  bk20 |  bk9b |  bk10b |  bk12 |  bk14c |  bk16 |  bk8a |  bk8b |  bk19 |  bk4 |  bk7 |  bk9d | 
+Number Of TSV: 30
+............................
+Offset: 10
+(15 , 578592.0 )->  bk1 |  bk5c |  bk6 |  bk3 |  bk18 |  bk17a |  bk20 |  bk9c |  bk10b |  bk11 |  bk14b |  bk13 |  bk14a |  bk15a |  bk10c | 
+(18 , 577857.0 )->  bk5b |  bk5a |  bk2 |  bk17b |  bk9b |  bk10a |  bk9d |  bk9a |  bk12 |  bk7 |  bk14c |  bk21 |  bk16 |  bk8a |  bk8b |  bk19 |  bk4 |  bk15b | 
+Number Of TSV: 30
+............................
